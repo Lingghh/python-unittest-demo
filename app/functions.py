@@ -4,6 +4,7 @@ import requests
 class Functions(object):
     
     def add(self, num1, num2):
+        print('Hello World')
         return num1 + num2
     
     def subtract(self, num1, num2):

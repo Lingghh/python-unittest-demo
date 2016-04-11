@@ -12,3 +12,6 @@ class Functions(object):
     
     def strange_add(self, num1, num2):
         return self.add(num1,num2) * 2
+    
+    def say_hello(self):
+        print("Can you find me?")

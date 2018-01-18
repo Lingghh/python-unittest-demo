@@ -1,0 +1,3 @@
+[submodule "example-code"]
+	path = example-code
+	url = https://github.com/Lingghh/example-code.git
